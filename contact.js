@@ -1,3 +1,4 @@
+@ -1,18 +1 @@
 const form = document.getElementById('contactForm');
 const successMessage = document.getElementById('successMessage');
 
@@ -16,3 +17,4 @@ form.addEventListener('submit', function (e) {
     successMessage.textContent = 'Gửi liên hệ thành công! Cảm ơn bạn ❤️';
     form.reset();
 });
+hello
